@@ -63,9 +63,10 @@ I've worked on projects ranging from **Android utility apps** to **full-stack bl
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ADIIgits&show_icons=true&theme=tokyonight&hide_border=true" alt="Aditya's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ADIIgits&show_icons=true&theme=tokyonight&hide_border=true" alt="Aditya's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=ADIIgits&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ADIIgits&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ADIIgits&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
