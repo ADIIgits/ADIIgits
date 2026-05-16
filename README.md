@@ -1,9 +1,10 @@
-'
+```text
             ┏━╸╻ ╻╻  ╻  ┏━┓╺┳╸┏━┓┏━╸╻┏    ┏┓     ┏┳┓┏━┓┏┓ ╻╻  ┏━╸
             ┣╸ ┃ ┃┃  ┃  ┗━┓ ┃ ┣━┫┃  ┣┻┓   ┃╺╋╸   ┃┃┃┃ ┃┣┻┓┃┃  ┣╸ 
             ╹  ┗━┛┗━╸┗━╸┗━┛ ╹ ╹ ╹┗━╸╹ ╹   ┗━┛    ╹ ╹┗━┛┗━┛╹┗━╸┗━╸
-'
-'
+```
+
+```text
  /$$$$$$$                                /$$                                        
 | $$__  $$                              | $$                                        
 | $$  \ $$  /$$$$$$  /$$    /$$ /$$$$$$ | $$  /$$$$$$   /$$$$$$   /$$$$$$   /$$$$$$ 
@@ -15,10 +16,10 @@
                                                       | $$                          
                                                       | $$                          
                                                       |__/                          
-'
+```
+
 I'm a **Full Stack & Android Developer**, and honestly, I love the whole stack — UIs, architecture, database design, you name it. There's something satisfying about working across all of it and seeing how the pieces fit together.
 My work ranges from **Android utility apps** to **full-stack blogging platforms**, and no matter the project, the goal is the same: build something that actually solves a problem and feels good to use. I'm always tinkering, optimizing, and looking for cleaner ways to do the things I just did.
-
 
 ### Main skills
 
@@ -29,6 +30,7 @@ My work ranges from **Android utility apps** to **full-stack blogging platforms*
 </p>
 
 ---
+
 ### 🌐 Socials:
 
 <p align="left">
@@ -42,6 +44,7 @@ My work ranges from **Android utility apps** to **full-stack blogging platforms*
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
 ---
 
 ### 📊 GitHub Stats:
