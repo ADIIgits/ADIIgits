@@ -21,28 +21,13 @@ My work ranges from **Android utility apps** to **full-stack blogging platforms*
 
 ---
 
-### 💻 Tech Stack:
+### Main skills
 
-#### 🚀 Languages & Core
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,kotlin,php" />
-</a>
-
-#### 🌐 Frontend & Web
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</a>
-
-#### ⚙️ Backend & Database
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mongodb,postgres,firebase" />
-</a>
-
-#### 🛠️ Tools & Platforms
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,androidstudio,vercel" />
-</a>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white" alt="JWT" height="48" />
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,js,kotlin,php,react,nextjs,tailwind,nodejs,express,laravel,mongodb,postgres,firebase,git,androidstudio,vercel&perline=14" />
+  </a>
+</p>
 
 ---
 
