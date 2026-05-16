@@ -1,7 +1,7 @@
 # Hey there,
 
 I'm a **Full Stack & Android Developer**, and honestly, I love the whole stack — UIs, architecture, database design, you name it. There's something satisfying about working across all of it and seeing how the pieces fit together.
-My work ranges from **Android utility apps** to **full-stack blogging platforms**, and no matter the project, the goal is the same: build something that actually solves a problem and feels good to use. I'm always tinkering, optimizing, and looking for a cleaner ways to do the things I just did.
+My work ranges from **Android utility apps** to **full-stack blogging platforms**, and no matter the project, the goal is the same: build something that actually solves a problem and feels good to use. I'm always tinkering, optimizing, and looking for cleaner ways to do the things I just did.
 
 ---
 
@@ -65,7 +65,6 @@ My work ranges from **Android utility apps** to **full-stack blogging platforms*
 
 ### 📬 Let's Connect:
 - 🔭 I’m currently working on improving my **System Design** skills.
-- 🌱 I’m currently learning **Advanced Android Architecture Components**.
 - 💬 Ask me about **MERN stack, Android development, or DSA**.
 - 📫 How to reach me: [adityalpu27@gmail.com](mailto:adityalpu27@gmail.com)
 
