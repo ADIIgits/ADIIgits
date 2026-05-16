@@ -1,8 +1,7 @@
-# Hi there, I'm Aditya Sharma! 👋
+# Hey there,
 
-I'm a **Full Stack & Android Developer** focused on building scalable, efficient, and user-centric applications. As a Computer Science student at **Lovely Professional University**, I balance deep dives into **Data Structures & Algorithms** with a passion for modern web and mobile ecosystems. 
-
-I've worked on projects ranging from **Android utility apps** to **full-stack blogging platforms**, and I'm always looking for ways to optimize performance and refine system architecture.
+I'm a **Full Stack & Android Developer**, and honestly, I love the whole stack — UIs, architecture, database design, you name it. There's something satisfying about working across all of it and seeing how the pieces fit together.
+My work ranges from **Android utility apps** to **full-stack blogging platforms**, and no matter the project, the goal is the same: build something that actually solves a problem and feels good to use. I'm always tinkering, optimizing, and looking for a cleaner ways to do the things I just did.
 
 ---
 
@@ -25,38 +24,25 @@ I've worked on projects ranging from **Android utility apps** to **full-stack bl
 ### 💻 Tech Stack:
 
 #### 🚀 Languages & Core
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,kotlin,php" />
+</a>
 
 #### 🌐 Frontend & Web
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</a>
 
 #### ⚙️ Backend & Database
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,mongodb,postgres,firebase" />
+</a>
 
 #### 🛠️ Tools & Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,androidstudio,vercel" />
+</a>
+<img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white" alt="JWT" height="48" />
 
 ---
 
